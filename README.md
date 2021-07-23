@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adriantrader10
-- 👀 I’m interested in ... Machine Learning
-- 🌱 I’m currently learning ...Data Science
+- 👀 I’m interested in Machine Learning, Data Science, Deep Learning, BD.
+- 🌱 I’m currently learning Machine Learning and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
